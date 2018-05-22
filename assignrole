@@ -1,0 +1,4 @@
+{delete} 
+{!role {user} ROLENAMEHERE} 
+{!setnick {user} [ROLENAMEHERE]{user.username}} 
+Access Granted! {user}
